@@ -1,5 +1,5 @@
 name: Simple CI
-#okey
+#okey again git
 on:
   push:
 
